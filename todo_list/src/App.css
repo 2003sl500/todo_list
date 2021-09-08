@@ -1,0 +1,42 @@
+.line-through {
+  text-decoration: line-through;
+}
+
+.bold {
+  font-weight: 500;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.capital {
+  text-transform: capitalize;
+}
+
+.list {
+  margin-top: 30px;
+}
+
+.addBtn {
+  margin-top: 15px;
+}
+
+button {
+  background-color: aliceblue;
+  border-radius: 10px;
+
+}
+
+.textInput {
+  height: 30px;
+}
+
+input {
+  margin-right: 15px;
+}
+
+hr {
+  background-color: firebrick;
+}
+
